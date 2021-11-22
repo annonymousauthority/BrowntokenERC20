@@ -1,0 +1,20 @@
+{
+  "name": "erc20browntoken",
+  "version": "1.0.0",
+  "description": "The test network for browntoken deployment to the ethereum blockchain network",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "ethereum",
+    "browntoken"
+  ],
+  "author": "Safelink (Augustine francis)",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "web3": "^1.6.0"
+  }
+}
