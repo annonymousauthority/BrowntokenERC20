@@ -1,7 +1,5 @@
 
 const HDWalletProvider = require('@truffle/hdwallet-provider')
-
-
 module.exports = {
   // Uncommenting the defaults below 
   // provides for an easier quick-start with Ganache.
